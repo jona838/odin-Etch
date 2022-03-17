@@ -1,0 +1,13 @@
+.col {
+    height: 40px;
+    width: 40px;
+    border: 1px solid red;
+    display: inline-block;
+}
+
+.row {
+    height: 40px;
+    width: 40px;
+    border: 1px solid red;
+}
+
